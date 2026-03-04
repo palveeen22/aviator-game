@@ -6,8 +6,8 @@ An Aviator crash game clone built with **Next.js 14**, **PixiJS 7**, **Zustand**
 
 ```bash
 # Clone Project 
-git clone https://github.com/palveeen22/aviator-demo.git
-cd aviator-demo
+git clone https://github.com/palveeen22/aviator-game.git
+cd aviator-game
 
 # Install dependencies
 pnpm install
