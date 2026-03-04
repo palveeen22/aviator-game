@@ -117,5 +117,3 @@ Audio context starts suspended and resumes on the first user interaction (browse
 | Key | Action |
 |-----|--------|
 | `Space` | Place bet (during countdown) or Cash out (during flight) |
-# aviator-demo
-# aviator-game
